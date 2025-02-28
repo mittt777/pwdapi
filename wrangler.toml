@@ -1,6 +1,6 @@
 name = "pwdapi"
 compatibility_date = "2023-12-01"
-
+main = "src/index.ts"
 # [vars]
 # MY_VARIABLE = "production_value"
 
