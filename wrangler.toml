@@ -15,4 +15,4 @@ compatibility_date = "2023-12-01"
 [[d1_databases]]
  binding = "DB"
  database_name = "pwdmanager"
- database_id = "a34ffb1a-0608-4b39-9ade-cc455c29572c"
+ database_id = "da4b9d45-f57b-475e-8c0f-6990b47c5386"
